@@ -1,0 +1,5 @@
+.env
+.venv
+tf-deploy/*
+*__pycache__*
+rough/
