@@ -25,4 +25,4 @@ Specify the local directory and S3 bucket name:
 How it works
 The script imports boto3 and loads AWS credentials from the .env file. It initializes an S3 client and checks if the target bucket exists, creating it if needed. Then it iterates through files in the local directory and uploads each one to S3 with a "datafiles/" prefix path.
 
-If you need more extensibilty of this for your use case. We can connect on Linkedin[@viciwuoha](https://linkedin.com/in/viciwuoha)
+If you need more extensibilty of this for your use case. We can connect on Linkedin [@viciwuoha](https://linkedin.com/in/viciwuoha)
